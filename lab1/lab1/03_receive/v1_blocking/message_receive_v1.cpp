@@ -1,4 +1,3 @@
-
 #include "init_queue.hpp"
 #include <cstdio>
 #include <cstdlib>
